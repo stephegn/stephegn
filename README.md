@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi I'm Steph 👋
+I'm a Principal Software Engineer @bbc
+
+I help the iPlayer and Sounds teams improve their Continuous Delivery practices
+
+You can grab me on [🐤twitter](https://twitter.com/stephegn)
+
 
 <!--
 **stephegn/stephegn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
