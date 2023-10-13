@@ -1,9 +1,7 @@
 # Hi I'm Steph 👋
 I'm a Principal Software Engineer @bbc
 
-I help the iPlayer and Sounds teams improve their Continuous Delivery practices
-
-You can grab me on [🐤twitter](https://twitter.com/stephegn)
+I'm working to improve our developer experiences and continuous delivery practices.
 
 
 <!--
